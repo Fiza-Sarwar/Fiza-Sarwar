@@ -1,0 +1,240 @@
+# 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     🎨 FRONTEND DEVELOPER | 🤖 AI AUTOMATION | 📊 CRM ENGINEER   ║
+║                                                                  ║
+║              Building Intelligent Solutions with Code            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+Fiza's+GitHub+Profile+👋;Frontend+%7C+Automation+%7C+AI+%7C+n8n;Building+the+Future+🚀)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWM/giphy.gif" width="50"> About Me
+
+<table>
+  <tr>
+    <td width="50%">
+      
+**💻 What I Do:**
+- 🎨 Frontend Development (React, Vue, vanilla JS)
+- 🤖 AI Automation Engineering
+- 📊 CRM System Design & n8n Workflows
+- 🎬 Content Production Automation
+- 🔧 Full-stack Automation Solutions
+
+    </td>
+    <td width="50%">
+
+**🎯 Current Focus:**
+```
+✓ Automation Frameworks
+✓ Workflow Engineering
+✓ AI Integration
+✓ CRM Architecture
+✓ Content Pipelines
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Active Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:-------:|:-----------|:----:|
+| 🎬 **True Crime Documentaries** | AI-powered video production pipeline | Python, AI APIs |
+| 📞 **Local Calling CRM** | n8n-based cold calling management system | n8n, APIs |
+| ⚡ **Automation Suite** | Frontend + automation integration | React, Node.js |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fiza-sarwar&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiza-sarwar&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak & Achievements
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fiza-sarwar&theme=github-dark&background=0D1117&border=30363D&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&dates=C9D1D9&fire=FF7A00&ring=58A6FF)
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fiza-sarwar&theme=github_dark&no-frame=false&column=7&margin-w=5&margin-h=5&row=1)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Frontend Arsenal
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### Backend & Automation
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-007396?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📈 Skill Proficiency
+
+```
+Frontend Development    ████████░░ 80%
+JavaScript/React        ████████░░ 80%
+Python Automation       ███████░░░ 70%
+n8n Workflows          ██████░░░░ 60%
+CRM Architecture       ██████░░░░ 60%
+Backend Development    █████░░░░░ 50%
+```
+
+---
+
+## 🎬 Featured Work
+
+<div align="center">
+
+### 🎥 True Crime Documentary Automation
+> AI-powered video production pipeline combining content curation, script generation, and automated editing workflows
+
+**Stack:** Python • APIs • Video Processing • Content Automation
+
+### 📞 AI-Powered Local Calling CRM
+> Enterprise-grade CRM system for managing cold-calling operations with intelligent routing and analytics
+
+**Stack:** n8n • APIs • Workflow Automation • Database Design
+
+### ⚡ Automation Integration Framework  
+> Seamless frontend and backend automation coupling for production workflows
+
+**Stack:** React • Node.js • n8n • APIs
+
+</div>
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+
+![Repo Stats](https://github-readme-activity-graph.vercel.app/graph?username=fiza-sarwar&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7A00&area=true&hide_border=false)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+| Platform | Link |
+|:--------:|:----:|
+| 💼 **GitHub** | [github.com/fiza-sarwar](https://github.com/fiza-sarwar) |
+| 🔗 **LinkedIn** | Open for collaboration |
+| 💬 **Email** | Reach out for automation projects |
+| 📱 **Location** | Karachi, Pakistan 🇵🇰 |
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+<div align="center">
+
+```
+🚀 Exciting Collaborations
+✨ Automation Engineering Opportunities  
+🤖 AI Integration Projects
+📊 CRM System Design Partnerships
+💡 Innovative Frontend Solutions
+```
+
+**Open to:** Freelance projects • Collaborations • Automation consulting
+
+</div>
+
+---
+
+## 📬 Latest Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=fiza-sarwar&color=58A6FF&style=flat-square)
+
+**Last Updated:** July 2026 | Status: 🟢 **Actively Building**
+
+</div>
+
+---
+
+## ⭐ Show Some Love!
+
+<div align="center">
+
+If you find my work interesting, consider:
+- 🌟 Starring my repositories
+- 🔄 Following for updates
+- 💬 Collaborating on projects
+
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-by%20Fiza%20Sarwar-58A6FF?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building tomorrow's automation solutions, one commit at a time.* 🚀
+
+</div>
